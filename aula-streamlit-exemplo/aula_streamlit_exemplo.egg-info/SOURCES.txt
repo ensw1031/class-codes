@@ -1,0 +1,8 @@
+README.rst
+setup.py
+aula_streamlit_exemplo/__init__.py
+aula_streamlit_exemplo.egg-info/PKG-INFO
+aula_streamlit_exemplo.egg-info/SOURCES.txt
+aula_streamlit_exemplo.egg-info/dependency_links.txt
+aula_streamlit_exemplo.egg-info/requires.txt
+aula_streamlit_exemplo.egg-info/top_level.txt
